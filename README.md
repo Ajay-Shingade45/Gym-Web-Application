@@ -35,33 +35,33 @@ The single page application design ensures a seamless and interactive user exper
 
 #### Main Hero Section
 
-![1](https://github.com/Ajay-Shingade45/Gym-Web-Application/blob/main/images/about1.jpg)
+![1](https://github.com/Ajay-Shingade45/Gym-Web-Application/blob/main/Project%20screenshot/Home%20page.png)
 
 #### Training Guideline Section
 
-![2](https://github.com/mian-ali/GymWebsite/assets/69896600/0b3abfe7-2c48-46af-a417-389693856be0)
+![2](https://github.com/Ajay-Shingade45/Gym-Web-Application/blob/main/Project%20screenshot/training%20guideline.png)
 
 #### FAQ Section
 
-![3](https://github.com/mian-ali/GymWebsite/assets/69896600/b7f4fc8a-65f3-4b82-ad00-d8820a7aacfc)
+![3](https://github.com/Ajay-Shingade45/Gym-Web-Application/blob/main/Project%20screenshot/services.png)
 
 #### Our Classess Section
 
-![4](https://github.com/mian-ali/GymWebsite/assets/69896600/9be68bfd-9a43-46f4-9d5c-9d919e786c81)
+![4](https://github.com/Ajay-Shingade45/Gym-Web-Application/blob/main/Project%20screenshot/our%20classes.png)
 
 ####  Classes Scdedule Section
 
-![6](https://github.com/mian-ali/GymWebsite/assets/69896600/a52126e1-a797-49c2-b5c2-12b4c4afa92a)
+![6](https://github.com/Ajay-Shingade45/Gym-Web-Application/blob/main/Project%20screenshot/class%20scadule.png)
 
 #### Gallery Section
 
-![7](https://github.com/mian-ali/GymWebsite/assets/69896600/c3086038-1719-4b4c-b189-7381e14aaadc)
+![7](https://github.com/Ajay-Shingade45/Gym-Web-Application/blob/main/Project%20screenshot/gallary.png)
 
 #### Pricing Section
 
-![8](https://github.com/mian-ali/GymWebsite/assets/69896600/ecd59833-e250-43b8-b7b0-5155fbefc5d4)
+![8](https://github.com/Ajay-Shingade45/Gym-Web-Application/blob/main/Project%20screenshot/package.png)
 
 #### Footer Section
 
-![9](https://github.com/mian-ali/GymWebsite/assets/69896600/8c6854fe-03fb-4b9a-9987-9d7e95d36647)
+![9](https://github.com/Ajay-Shingade45/Gym-Web-Application/blob/main/Project%20screenshot/footer.png)
 
